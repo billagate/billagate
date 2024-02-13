@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/billagate/billagate/blob/main/IMG_1776.JPG">
+</picture>
