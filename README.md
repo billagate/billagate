@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/billagate/billagate/blob/main/IMG_1776.JPG">
+<img src="https://github.com/billagate/billagate/blob/main/IMG_1776.JPG">
 </picture>
